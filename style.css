@@ -1,0 +1,260 @@
+.body{
+  margin: 0px;
+  box-sizing: border-box;
+  padding: 0px;
+}
+
+.bgimage {
+	background-size: 100% 100%;
+	width: 100%;
+	height: 90vh;
+  background-image: url('bg-img.jpg');
+	background-color: blue;
+}
+
+.heading h3{
+	
+	font-size: 40px;
+	text-align: center;
+	text-transform: uppercase;
+  font-weight: bold;
+  color: white;
+  font-family: 'Dancing Script', cursive;
+  position: relative;
+  letter-spacing: 1px;
+  margin-left: 40px;
+  margin-top: 140px;
+  padding: 20px;
+  line-height: 50px;
+
+}
+
+.para p{
+	color: white;
+	font-weight: bold;
+	font-size: 25px;
+	text-transform: uppercase;
+	margin-top: 10px;
+	line-height: 20px;
+	text-align: center;
+	position: relative;
+	font-family: 'Dancing Script', cursive;
+	letter-spacing: 1px;
+
+}
+
+.para h6{
+	font-weight: bold;
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 20px;
+	width: 100%;
+	font-size: 12px;
+	font-family: 'Dancing Script', cursive;
+	letter-spacing: 1px;
+
+}
+
+.menu{
+	width: 100%;
+	height: 90px;
+	background-color: rgba(173, 167, 167, 0.5);
+	
+}
+
+.leftmenu{
+	width: 25%;
+	float: left;
+ 
+}
+
+.leftmenu h4{
+	padding-left: 70px;
+	font-size: 22px;
+	color: white;
+	line-height: 70px;
+	text-transform: uppercase;
+	font-weight: bold ;
+	line-height: 50px;
+	
+}
+
+.rightmenu{
+	width: 70%;
+	float: right;
+	
+ 
+}
+
+.rightmenu ul{
+	margin-left: 150px;
+	float: right;
+
+}
+
+.rightmenu ul li{
+	color: white;
+	list-style: none;
+	font-size: 15px;
+	line-height: 70px;
+	margin-right: 40px;
+  text-transform: uppercase;
+  font-weight: bold;
+  float: right;
+
+}
+
+.rightmenu ul li:hover{
+	background-color: black;
+}
+
+.projects{
+	
+	height: 100px;
+}
+
+.projects h3{
+	text-transform: uppercase;
+  border-bottom: 1px solid grey;
+	padding: 25px;
+	margin-left: 40px;
+	font-weight: bold;
+	font-size: 22px;
+	margin-top: 340px;
+	line-height: 40px;
+	margin-right: 40px;
+}
+
+.projects h4{
+  
+	margin-left: 40px;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 40px;
+	margin-right: 40px;
+
+}
+
+.Education{
+	
+	height: 100px;
+}
+
+.Education h3{
+	text-transform: uppercase;
+  border-bottom: 1px solid grey;
+	padding: 25px;
+	margin-left: 40px;
+	font-weight: bold;
+	font-size: 22px;
+	margin-top: 130px;
+	line-height: 40px;
+	margin-right: 40px;
+}
+
+.Education h5{
+	font-size: 18px;
+	color: black;
+	font-weight: normal;
+	margin-left: 40px;
+	line-height: 5px;
+	margin-right: 40px;
+}
+
+.contact{
+	
+	height: 100px;
+}
+
+.contact h3{
+	text-transform: uppercase;
+	padding: 5px;
+	margin-left: 40px;
+	font-weight: bold;
+	font-size: 22px;
+	margin-top: 0px;
+	line-height: 40px;
+	/* margin-right: 40px; */
+	color: white;
+}
+
+.details{
+	padding: 25px;
+	font-size: 30px;
+	margin-top: 50px;
+	height: 150px;
+}
+.about{
+	
+	height: 100px;
+}
+
+.about h3{
+	text-transform: uppercase;
+  	border-bottom: 1px solid grey;
+	padding: 25px;
+	margin-left: 40px;
+	font-weight: bold;
+	font-size: 22px;
+	margin-top: 20px;
+	line-height: 40px;
+	margin-right: 40px;
+}
+
+.about p{
+	font-size: 18px;
+	color: black;
+	font-weight: 500px;
+	margin-left: 40px;
+	margin-bottom: 40px;
+	margin-right: 40px;
+}
+
+.projects p{
+  font-size: 18px;
+	color: black;
+	font-weight: 500px;
+	margin-left: 40px;
+	/* margin-bottom: 10px; */
+	margin-right: 40px;
+}
+
+.projects h5{
+  text-transform: uppercase;
+  /* border-bottom: 1px solid grey; */
+	/* padding: 10px; */
+	margin-left: 40px;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 40px;
+	margin-right: 40px;
+}
+
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+	
+  }
+
+  .fa-linkedin {
+	
+	color:white;
+  }
+
+  .fa-envelope{
+	  color:white;
+  }
+  
+  .fa-phone{
+	  color:white;
+  }
+
+  .plugin{
+	  width: 70%;
+	  float: right;
+	  line-height: 70px;
+  }
